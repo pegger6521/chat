@@ -1,5 +1,5 @@
 # function跟function的中間標準是: 空兩行
-# encoding='utf-8-sig': 這是當你看到error是在第一行出現奇怪亂碼時加上的
+# encoding='utf-8-sig': 這是當你看到error是在第一行出現奇怪亂碼"\ufeff"時加上的
 
 # 這是一個處理line對話紀錄的範例
 # 這是一個用空格分開的對話紀錄
